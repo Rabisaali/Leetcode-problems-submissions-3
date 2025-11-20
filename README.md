@@ -14,5 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Rabisaali/Leetcode-problems-submissions-3/tree/master/0048-rotate-image) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Rabisaali/Leetcode-problems-submissions-3/tree/master/2231-find-first-palindromic-string-in-the-array) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rabisaali/Leetcode-problems-submissions-3/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Rabisaali/Leetcode-problems-submissions-3/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
